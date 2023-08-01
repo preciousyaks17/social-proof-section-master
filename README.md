@@ -1,12 +1,12 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://preciousyaks17.github.io/social-proof-section-master/). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-   - [Links](#links)
+   - [ Github PagesLink](https://preciousyaks17.github.io/social-proof-section-master/)
 - [My process](#my-process)
   - [Built with](#built-with)
    - [Author](#author)
@@ -23,7 +23,7 @@ Users should be able to:
  
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://preciousyaks17.github.io/social-proof-section-master/)
  
 ## My process
 
