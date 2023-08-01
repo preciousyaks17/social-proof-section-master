@@ -6,7 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-   - [ Github PagesLink](https://preciousyaks17.github.io/social-proof-section-master/)
+   - [ Github Pages Link](https://preciousyaks17.github.io/social-proof-section-master/)
 - [My process](#my-process)
   - [Built with](#built-with)
    - [Author](#author)
